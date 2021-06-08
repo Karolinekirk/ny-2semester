@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta+Malar:wght@200;300;400;500;600;700;800&display=swap');
+/*https://fonts.google.com/specimen/Mukta+Malar?query=mukta+ma#standard-styles*/
+
+:root {
+   --white: #F7F7F7;
+   --darkblue: #5E7B81;
+   --lightblue: #CAD7D9;
+   --baige: #BEB8A9;
+}
+
+* {
+    font-family: 'Mukta Malar', sans-serif;
+}
