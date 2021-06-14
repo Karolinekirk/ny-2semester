@@ -11,3 +11,15 @@
 * {
     font-family: 'Mukta Malar', sans-serif;
 }
+
+
+/*header mobil version*/
+
+.dropdown-indhold {
+    
+}
+
+/*Header pc version*/
+.pc-menu {
+    display: none;
+}
