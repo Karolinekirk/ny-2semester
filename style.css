@@ -15,6 +15,18 @@
 
 /*header mobil version*/
 
+.top-navigation {
+    display: flex;
+}
+
+.logo {
+    width: 100px;
+}
+
+.dropdown-ikon {
+    width: 20px;
+}
+
 .dropdown-indhold {
     
 }
