@@ -10,26 +10,26 @@
 
 * {
     font-family: 'Mukta Malar', sans-serif;
+    margin: 0;
 }
 
 
 /*header mobil version*/
+header {
+    height: auto;
+    background-color: var(--darkblue);
+}
 
 .top-navigation {
     display: flex;
+    justify-content: space-between;
 }
 
 .logo {
     width: 100px;
 }
 
-.dropdown-ikon {
-    width: 20px;
-}
 
-.dropdown-indhold {
-    
-}
 
 /*Header pc version*/
 .pc-menu {
